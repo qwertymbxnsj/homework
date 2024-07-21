@@ -16,7 +16,7 @@
 
 .a {
     background-color: #ddd9d9;
-    width: 1400px;
+    max-width: 1400px;
     height: 500px;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
